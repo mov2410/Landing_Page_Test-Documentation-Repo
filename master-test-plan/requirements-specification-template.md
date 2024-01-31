@@ -1,4 +1,4 @@
-# Landing Page Requirements Specification**
+# Landing Page Requirements Specification
 
 ## 1. Overview
 
